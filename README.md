@@ -4,7 +4,8 @@ Readme should look similar to this:
 
 ## Description
 
-## Table of Contents
+## Table of Contents:
+- 
 
 ## Installation
 
