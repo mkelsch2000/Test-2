@@ -17,6 +17,7 @@ Readme should look similar to this:
 ## Usage
 
 ## License
+Licensed under the [MIT Liccense](LICENSE)
 
 ## Contributing
 
